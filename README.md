@@ -7,4 +7,4 @@
 
 https://campanywhere.herokuapp.com/
 
-The loading of the site may take a few seconds as it is hosted on Heroku and if the website is not accessed often, the server is put to sleep until the next request.
+*The loading of the site may take a few seconds as it is hosted on Heroku and if the website is not accessed often, the server is put to sleep until the next request.
